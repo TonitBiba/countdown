@@ -1,0 +1,24 @@
+{
+    "events": [
+      {
+        "title": "Release RN course",
+        "date": "2021-09-29T13:45:18.000Z",
+        "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a87"
+      },
+      {
+        "title": "Demo a new app",
+        "date": "2021-03-29T13:45:18.000Z",
+        "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a81"
+      },
+      {
+        "title": "Go on holiday",
+        "date": "2021-04-29T13:45:18.000Z",
+        "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a82"
+      },
+      {
+        "title": "Come back from holiday",
+        "date": "2021-05-29T13:45:18.000Z",
+        "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a83"
+      }
+    ]
+  }

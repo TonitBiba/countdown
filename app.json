@@ -7,6 +7,13 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "host.exp.countdown"
+    }
+  },
+  "android": {
+    "package": "com.tonit.countdown",
+    "versionCode": 1
   }
 }
